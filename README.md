@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tsajlis
-- 👀 I’m interested in ...
+- 👀 I’m interested in Automation, MX(Zebra), Speech Recognition, Weird Algorithms.
 - 🌱 I’m currently learning Kotlin, Go, PHP, Python
 - 💞️ I’m looking to collaborate on AI, Sassy digital assistants, Video games
 - 📫 How to reach me : professionerds@gmail.com
